@@ -1,0 +1,18 @@
+.listContent {
+    text-align: center;
+    list-style: none;
+}
+
+.listContent:first-child {
+    margin-right: 45px;
+}
+
+.listContent a {
+    color: var(--white);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.listContent a:hover {
+    color: var(--gray);
+}
