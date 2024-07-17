@@ -1,0 +1,9 @@
+.video {
+    margin-bottom: 40px;
+    text-align: center;
+    width: 100%;
+}
+
+.video iframe {
+    border: none;
+}
