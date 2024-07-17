@@ -1,0 +1,38 @@
+.container {
+    box-shadow: 4px 4px 4px 0px #00000040;
+    font-size: 0;
+    height: 540px;
+    margin-bottom: 24px;
+    width: 282px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.image {
+    height: 425px;
+    max-width: 282px;
+    width: 100%;
+}
+
+.info {
+    background: var(--gray);
+    display: flex;
+    flex-direction: column;
+    height: 116px;
+    justify-content: space-between;
+    padding: 16px 27px;
+}
+
+.info h2 {
+    color: var(--black);
+    font-size: 18px;
+    margin: 0;
+    text-decoration: none;
+}
+
+.info img {
+    cursor: pointer;
+    width: 20px;
+}
