@@ -1,8 +1,13 @@
 .footerContainer {
     align-items: center;
     background: var(--black);
+    bottom: 0;
     color: var(--white);
     display: flex;
     height: 88px;
     justify-content: center;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+
 }
