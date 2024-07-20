@@ -3,11 +3,11 @@
 Project to practice developing an application with React based on a course. 
 
 #Context API\
-#hooks\
-#routes\
+#Hooks\
+#Routes\
 #CSS modules\
 #JSON server (my-json-server)\
-#application deployment(Vercel)
+#Application deployment(Vercel)
 
 [Project link](https://react-cinetag-mu.vercel.app/)
 
