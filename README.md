@@ -1,6 +1,13 @@
 # Creating a project with React
 
-Project created to practice developing an application with React. The project applied Context API, hooks, routes, CSS modules, JSON server (my-json-server), and application deployment.
+Project to practice developing an application with React based on a course. 
+
+#Context API\
+#hooks\
+#routes\
+#CSS modules\
+#JSON server (my-json-server)\
+#application deployment(Vercel)
 
 [Project link](https://react-cinetag-mu.vercel.app/)
 
