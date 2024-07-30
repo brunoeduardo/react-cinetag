@@ -1,3 +1,5 @@
+import { Suspense } from "react"
+
 const { default: Container } = require("Components/Container")
 const { default: Footer } = require("Components/Footer")
 const { default: Header } = require("Components/Header")
@@ -9,7 +11,9 @@ const Template = () => {
         <Header/>
         <Container>
             <FavoriteProvider>
+                <Suspense fallback={<h1> Loading ...</h1>}>
                 <Outlet/>
+                </Suspense>
             </FavoriteProvider>
         </Container>
         <Footer/>
